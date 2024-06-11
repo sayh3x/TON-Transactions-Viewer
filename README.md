@@ -6,8 +6,6 @@
 
 Welcome to the TON Transactions Viewer script! This tool allows you to check and display transaction details on the TON (The Open Network) blockchain.
 
----
-
 ## Features
 
 - **Check TON Wallet Balance**: Retrieve and display the balance of a given TON wallet.
