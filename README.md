@@ -74,7 +74,7 @@ We welcome contributions to this project. Feel free to open issues or submit pul
 
 ---
 
-Developed by 
+Developed by H3X
 
 ## Additional Instructions
 
