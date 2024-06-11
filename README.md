@@ -1,6 +1,12 @@
 # TON Transactions Viewer
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sayh3x/TON-Transactions-Viewer/main/assets/main.webp" style="max-width: 100%; height: auto;" alt="TRX Transactions Viewer Logo">
+</p>
+
 Welcome to the TON Transactions Viewer script! This tool allows you to check and display transaction details on the TON (The Open Network) blockchain.
+
+---
 
 ## Features
 
